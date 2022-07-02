@@ -17,6 +17,7 @@ font-weight: 800;
 font-size: 40px;
 line-height: 40px;
 text-align: center;
+top: 0%;
 width: 100%;
 /* z-index: 23; */
 /* or 100% */
@@ -46,7 +47,8 @@ font-size: 20px;
 line-height: 28px;
 text-align: center;
 width: 100%;
-top: 20%;
+top: 10%;
+/* margin-top: 80px; */
 color: #D5D4D8;
 z-index: 23;
 }
